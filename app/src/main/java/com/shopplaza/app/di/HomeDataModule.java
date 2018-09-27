@@ -35,7 +35,7 @@ public class HomeDataModule {
     public ShopPlazaDatabase provideDatabase(Application application){
 
         return Room.databaseBuilder(application,
-                ShopPlazaDatabase.class, "T4.db")
+                ShopPlazaDatabase.class, "ShopPlazaDatabase.db")
                 .build();
 
     }
