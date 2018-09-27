@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#720095</color>
+    <color name="colorPrimaryDark">#53006c</color>
+    <color name="colorAccent">#4572D8</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="label_color">#720095</color>
+    <color name="label_hint_color">#cc858585</color>
+    <color name="background">#dddddd</color>
+
+    <!-- SLIDER!-->
+    <!--black transparent-->
+
+    <color name="loader_1">#720095</color>
+    <color name="most_shared">#ff0000</color>
+    <color name="most_viewed">#f7931e</color>
+    <color name="loader_4">#ffff00</color>
+    <color name="most_ordered">#4572D8</color>
+
+
+
+</resources>

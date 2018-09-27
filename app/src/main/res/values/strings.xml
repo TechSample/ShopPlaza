@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShopPlaza</string>
+    <string name="home">Home</string>
+
+    <!--Slider-->
+
+    <string name="most_viewed">Most Viewed</string>
+    <string name="most_ordered">Most Ordered</string>
+    <string name="most_shared">Most Shared</string>
+
+
+    <string name="no_data_search">Oops! No results were found</string>
+    <string name="no_data_found">Oops! Something went wrong</string>
+    <string name="no_network">No internet connection found.\n Check your connection</string>
+    <string name="no_results">No items found</string>
+    <string name="trending">Trending Products</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="available_variants">Available Variants</string>
+    <string name="no_variants">No Variants found</string>
+</resources>
